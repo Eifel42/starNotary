@@ -1,0 +1,51 @@
+1) Initial Contract on Rinkeybe
+truffle migrate --reset --network rinkeby
+
+StarNotary: 0x1f94ac9a5e2a2fd70a52d893e8cf7973a8fe3cf2
+https://rinkeby.etherscan.io/address/0x1f94ac9a5e2a2fd70a52d893e8cf7973a8fe3cf2
+Transaction
+https://rinkeby.etherscan.io/tx/0x7f500092e9df86e77d12130b2169c1e674d906626a6b17848dc900abff69b503
+
+
+Output:
+truffle migrate --reset --network rinkeby
+Using network 'rinkeby'.
+
+Running migration: 1_initial_migration.js
+  Replacing Migrations...
+  ... 0x2ac8dbcb011550f82874fa84723cc8f207bcd2d9eb4318e1af5e3acb3ed3f948
+  Migrations: 0x8d8fb5c62cd598a892bdf523a97ab698fa14357c
+  Replacing StarNotary...
+  ... 0x7f500092e9df86e77d12130b2169c1e674d906626a6b17848dc900abff69b503
+  StarNotary: 0x1f94ac9a5e2a2fd70a52d893e8cf7973a8fe3cf2
+Saving successful migration to network...
+  ... 0x09f9e0dc2b93abe525d7a732e5e11811102f88e1270fc38fa8cb732acb6fa099
+Saving artifacts...
+
+
+2) Create Star on Rinkeybe via web
+
+0x4afb7373eddc6b6a878773d23454aec11c2c220e1745eff00e818eb96967574d
+Transaction
+https://rinkeby.etherscan.io/tx/0x4afb7373eddc6b6a878773d23454aec11c2c220e1745eff00e818eb96967574d
+
+Output:
+createStar account-->0xd163786d38be7ce408d0f40e5d509572c4f1f6da<--
+(index):631 --> createStar result
+(index):632 0x4afb7373eddc6b6a878773d23454aec11c2c220e1745eff00e818eb96967574d
+
+
+3) Put star up to sell via web
+0xef712d0ff15addc89a226c32ee16c97ace0baf756bd6d2db16ace47853e3e0c1
+Transaction
+https://rinkeby.etherscan.io/tx/0xef712d0ff15addc89a226c32ee16c97ace0baf756bd6d2db16ace47853e3e0c1
+
+Output:
+putStarUpToSell account-->0xd163786d38be7ce408d0f40e5d509572c4f1f6da<--
+(index):657 --> putStarUpToSell result
+(index):658 0xef712d0ff15addc89a226c32ee16c97ace0baf756bd6d2db16ace47853e3e0c1
+
+4) addtional try to claim own Star
+https://rinkeby.etherscan.io/tx/0xb6c0eb7e67f022451892fc311ab42230f931e238abd3f6ea1e3cee879469cd2e
+
+code works on rinkeby
