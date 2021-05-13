@@ -1,4 +1,4 @@
-# starNotary
+# Star Notary
 
 Star Notary Service allows you to create stars with coordinates in the Ethereum Blockchain to save. This application is a demo application, which the functionality of a DApp demonstrated. The functionality of Solidity and interaction with Javascript.
  
