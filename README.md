@@ -7,4 +7,4 @@ The application implements the Ethereum ERC-721 Token Standard as a Solidity Sma
 # Architecture Documentation
 
 A Documentation of the architecture according to the arc42 in German.  
-[ERC-721 Star Notary Service Arc42 (DE)](https://zils-kaisersesch.de/2020/01/erc-721-star-notary-service-arc42-de/)
+[ERC-721 Star Notary Service Arc42 (DE)](https://eifel42.dev/post/2020-01-15-star-notary-services-arc42/)
